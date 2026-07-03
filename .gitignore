@@ -1,0 +1,12 @@
+# Secrets
+.env
+toggl_config.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local output (optional — remove this line if you WANT the snapshot committed
+# by GitHub Actions; keep it if the snapshot should stay local only)
+toggl_snapshot.json
