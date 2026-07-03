@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-03T11:08:46.519420+00:00",
+  "generated_at": "2026-07-03T15:45:52.069129+00:00",
   "range_start": "2026-06-26",
   "range_end": "2026-07-03",
   "project_filter": "all",
-  "total_hours": 22.11,
+  "total_hours": 26.06,
   "by_project": [
     {
       "project": "Demigos",
       "client": "Demigos",
-      "hours": 16.79,
-      "entry_count": 30
+      "hours": 20.6,
+      "entry_count": 37
     },
     {
       "project": "Self R&D",
@@ -20,15 +20,79 @@
     {
       "project": "Aquapark",
       "client": null,
-      "hours": 2.49,
-      "entry_count": 3
+      "hours": 2.64,
+      "entry_count": 4
     }
   ],
   "raw_entries": [
     {
-      "start": "2026-07-03T10:48:57+00:00",
+      "start": "2026-07-03T15:36:58+00:00",
       "stop": null,
-      "hours": 0.33,
+      "hours": 0.15,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Aquapark: girls"
+    },
+    {
+      "start": "2026-07-03T14:14:24+00:00",
+      "stop": "2026-07-03T14:59:45+00:00",
+      "hours": 0.76,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - communication with Austin"
+    },
+    {
+      "start": "2026-07-03T14:14:05+00:00",
+      "stop": "2026-07-03T14:14:23+00:00",
+      "hours": 0.01,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - review agreements"
+    },
+    {
+      "start": "2026-07-03T13:52:11+00:00",
+      "stop": "2026-07-03T14:13:54+00:00",
+      "hours": 0.36,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - review agreements"
+    },
+    {
+      "start": "2026-07-03T13:04:53+00:00",
+      "stop": "2026-07-03T13:50:55+00:00",
+      "hours": 0.77,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "kotechs <> Demigos on estimate"
+    },
+    {
+      "start": "2026-07-03T12:31:16+00:00",
+      "stop": "2026-07-03T13:04:43+00:00",
+      "hours": 0.56,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Arishta SRS catch up"
+    },
+    {
+      "start": "2026-07-03T11:45:18+00:00",
+      "stop": "2026-07-03T12:30:54+00:00",
+      "hours": 0.76,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "AI guadrails implementation"
+    },
+    {
+      "start": "2026-07-03T11:29:36+00:00",
+      "stop": "2026-07-03T11:45:07+00:00",
+      "hours": 0.26,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Arhysoft <> Demigos on SG phase 2/3 estimate"
+    },
+    {
+      "start": "2026-07-03T10:48:57+00:00",
+      "stop": "2026-07-03T11:29:21+00:00",
+      "hours": 0.67,
       "project": "Demigos",
       "client": "Demigos",
       "description": "Setting up scheduling agent"
