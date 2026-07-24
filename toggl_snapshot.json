@@ -1,651 +1,555 @@
 {
-  "generated_at": "2026-07-17T15:03:28.806869+00:00",
-  "range_start": "2026-07-10",
-  "range_end": "2026-07-17",
+  "generated_at": "2026-07-24T15:18:42.457123+00:00",
+  "range_start": "2026-07-17",
+  "range_end": "2026-07-24",
   "project_filter": "all",
-  "total_hours": 50.42,
+  "total_hours": 35.2,
   "by_project": [
     {
       "project": "Demigos",
       "client": "Demigos",
-      "hours": 29.5,
-      "entry_count": 59
+      "hours": 22.74,
+      "entry_count": 45
     },
     {
       "project": "Aquapark",
       "client": null,
-      "hours": 15.54,
+      "hours": 8.18,
       "entry_count": 11
     },
     {
       "project": "Self R&D",
       "client": null,
-      "hours": 4.91,
-      "entry_count": 4
+      "hours": 4.12,
+      "entry_count": 8
     },
     {
       "project": "(No Project)",
       "client": null,
-      "hours": 0.47,
-      "entry_count": 3
+      "hours": 0.16,
+      "entry_count": 1
     }
   ],
   "raw_entries": [
     {
-      "start": "2026-07-17T04:15:35+00:00",
-      "stop": null,
-      "hours": 10.8,
+      "start": "2026-07-24T14:41:52+00:00",
+      "stop": "2026-07-24T14:44:25+00:00",
+      "hours": 0.04,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Pipeline building"
+    },
+    {
+      "start": "2026-07-24T13:02:40+00:00",
+      "stop": "2026-07-24T14:32:43+00:00",
+      "hours": 1.5,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Catch up with Shelby"
+    },
+    {
+      "start": "2026-07-24T04:56:57+00:00",
+      "stop": "2026-07-24T06:08:36+00:00",
+      "hours": 1.19,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
+    },
+    {
+      "start": "2026-07-24T01:48:58+00:00",
+      "stop": "2026-07-24T02:38:00+00:00",
+      "hours": 0.82,
       "project": "Aquapark",
       "client": null,
-      "description": "Dominant"
+      "description": "Girls"
     },
     {
-      "start": "2026-07-16T18:23:01+00:00",
-      "stop": "2026-07-16T18:24:47+00:00",
-      "hours": 0.03,
+      "start": "2026-07-23T17:56:04+00:00",
+      "stop": "2026-07-23T18:41:17+00:00",
+      "hours": 0.75,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Empathetics - send contracts"
+      "description": "Pipeline building"
     },
     {
-      "start": "2026-07-16T18:04:19+00:00",
-      "stop": "2026-07-16T18:16:09+00:00",
-      "hours": 0.2,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - send contracts"
+      "start": "2026-07-23T17:46:25+00:00",
+      "stop": "2026-07-23T17:55:59+00:00",
+      "hours": 0.16,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
     },
     {
-      "start": "2026-07-16T18:02:53+00:00",
-      "stop": "2026-07-16T18:03:33+00:00",
-      "hours": 0.01,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Boxette group"
-    },
-    {
-      "start": "2026-07-16T17:39:00+00:00",
-      "stop": "2026-07-16T18:02:00+00:00",
-      "hours": 0.38,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Boxette group"
-    },
-    {
-      "start": "2026-07-16T16:25:35+00:00",
-      "stop": "2026-07-16T17:39:50+00:00",
-      "hours": 1.24,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Prepare answer to Kalpesh"
-    },
-    {
-      "start": "2026-07-16T15:56:41+00:00",
-      "stop": "2026-07-16T16:25:26+00:00",
-      "hours": 0.48,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Prepare answer to Kalpesh"
-    },
-    {
-      "start": "2026-07-16T15:29:17+00:00",
-      "stop": "2026-07-16T15:56:38+00:00",
-      "hours": 0.46,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - send contracts"
-    },
-    {
-      "start": "2026-07-16T15:22:49+00:00",
-      "stop": "2026-07-16T15:29:04+00:00",
+      "start": "2026-07-23T14:01:20+00:00",
+      "stop": "2026-07-23T14:07:10+00:00",
       "hours": 0.1,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Empathetics - reporting"
+      "description": "Jason/Demigos Sync regarding CMS for SGWR"
     },
     {
-      "start": "2026-07-16T14:54:47+00:00",
-      "stop": "2026-07-16T15:20:43+00:00",
-      "hours": 0.43,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Prepare answer to Kalpesh"
-    },
-    {
-      "start": "2026-07-16T14:46:24+00:00",
-      "stop": "2026-07-16T14:53:03+00:00",
-      "hours": 0.11,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - reporting"
-    },
-    {
-      "start": "2026-07-16T13:58:00+00:00",
-      "stop": "2026-07-16T13:58:48+00:00",
-      "hours": 0.01,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - reporting"
-    },
-    {
-      "start": "2026-07-16T13:01:25+00:00",
-      "stop": "2026-07-16T13:57:55+00:00",
-      "hours": 0.94,
+      "start": "2026-07-23T13:00:13+00:00",
+      "stop": "2026-07-23T14:01:02+00:00",
+      "hours": 1.01,
       "project": "Demigos",
       "client": "Demigos",
       "description": "AI in Practice: Ivan GTM"
     },
     {
-      "start": "2026-07-16T10:12:50+00:00",
-      "stop": "2026-07-16T12:44:13+00:00",
-      "hours": 2.52,
+      "start": "2026-07-23T12:51:33+00:00",
+      "stop": "2026-07-23T12:59:51+00:00",
+      "hours": 0.14,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Prepare answer to Kalpesh"
+      "description": "Interview with Yevhen S (Front-end engineer). Seedium"
     },
     {
-      "start": "2026-07-16T09:58:23+00:00",
-      "stop": "2026-07-16T10:09:51+00:00",
-      "hours": 0.19,
+      "start": "2026-07-23T11:12:46+00:00",
+      "stop": "2026-07-23T11:29:21+00:00",
+      "hours": 0.28,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Girls"
+    },
+    {
+      "start": "2026-07-23T10:03:49+00:00",
+      "stop": "2026-07-23T11:04:43+00:00",
+      "hours": 1.01,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Pay invoices Andrew"
+      "description": "Interview with Kostya Z (Technical Lead). Seedium"
     },
     {
-      "start": "2026-07-16T09:54:52+00:00",
-      "stop": "2026-07-16T09:58:22+00:00",
-      "hours": 0.06,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Prepare answer to Kalpesh"
-    },
-    {
-      "start": "2026-07-16T09:24:34+00:00",
-      "stop": "2026-07-16T09:54:46+00:00",
-      "hours": 0.5,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Pay invoices Andrew"
-    },
-    {
-      "start": "2026-07-16T09:13:16+00:00",
-      "stop": "2026-07-16T09:24:33+00:00",
-      "hours": 0.19,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Prepare answer to Kalpesh"
-    },
-    {
-      "start": "2026-07-16T09:10:08+00:00",
-      "stop": "2026-07-16T09:13:06+00:00",
-      "hours": 0.05,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Pay invoices Andrew"
-    },
-    {
-      "start": "2026-07-16T08:31:17+00:00",
-      "stop": "2026-07-16T09:09:51+00:00",
-      "hours": 0.64,
+      "start": "2026-07-23T09:18:32+00:00",
+      "stop": "2026-07-23T10:02:31+00:00",
+      "hours": 0.73,
       "project": "Demigos",
       "client": "Demigos",
       "description": "Demigos projects weekly retrospective"
     },
     {
-      "start": "2026-07-16T08:07:06+00:00",
-      "stop": "2026-07-16T08:30:56+00:00",
-      "hours": 0.4,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "AI in Practice: marketing"
-    },
-    {
-      "start": "2026-07-16T08:00:47+00:00",
-      "stop": "2026-07-16T08:06:26+00:00",
-      "hours": 0.09,
-      "project": "(No Project)",
-      "client": null,
-      "description": "Empathetics - manage legal"
-    },
-    {
-      "start": "2026-07-15T17:07:41+00:00",
-      "stop": "2026-07-15T17:25:25+00:00",
-      "hours": 0.3,
-      "project": "(No Project)",
-      "client": null,
-      "description": "Empathetics - merge tasks"
-    },
-    {
-      "start": "2026-07-15T14:11:43+00:00",
-      "stop": "2026-07-15T15:35:36+00:00",
-      "hours": 1.4,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Seedium <> Demigos. Estimate discussion"
-    },
-    {
-      "start": "2026-07-15T09:01:13+00:00",
-      "stop": "2026-07-15T10:09:45+00:00",
-      "hours": 1.14,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Elena <> Ivan - session 4"
-    },
-    {
-      "start": "2026-07-15T08:25:46+00:00",
-      "stop": "2026-07-15T08:42:59+00:00",
-      "hours": 0.29,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Projects handling"
-    },
-    {
-      "start": "2026-07-15T08:18:38+00:00",
-      "stop": "2026-07-15T08:25:13+00:00",
-      "hours": 0.11,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "AI in Practice: marketing"
-    },
-    {
-      "start": "2026-07-15T07:43:12+00:00",
-      "stop": "2026-07-15T08:18:17+00:00",
-      "hours": 0.58,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Choose equipment"
-    },
-    {
-      "start": "2026-07-15T07:13:23+00:00",
-      "stop": "2026-07-15T07:43:04+00:00",
-      "hours": 0.49,
+      "start": "2026-07-23T08:51:34+00:00",
+      "stop": "2026-07-23T09:18:28+00:00",
+      "hours": 0.45,
       "project": "Aquapark",
       "client": null,
       "description": "Dominant"
     },
     {
-      "start": "2026-07-14T18:34:54+00:00",
-      "stop": "2026-07-14T18:37:00+00:00",
-      "hours": 0.04,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - sign contracts"
+      "start": "2026-07-23T02:45:00+00:00",
+      "stop": "2026-07-23T03:00:00+00:00",
+      "hours": 0.25,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
     },
     {
-      "start": "2026-07-14T18:19:39+00:00",
-      "stop": "2026-07-14T18:31:22+00:00",
-      "hours": 0.2,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - reporting"
+      "start": "2026-07-22T17:13:49+00:00",
+      "stop": "2026-07-22T18:08:10+00:00",
+      "hours": 0.91,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Interview Vita"
     },
     {
-      "start": "2026-07-14T17:54:51+00:00",
-      "stop": "2026-07-14T18:19:35+00:00",
+      "start": "2026-07-22T16:51:07+00:00",
+      "stop": "2026-07-22T17:05:27+00:00",
+      "hours": 0.24,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "New pipeling building"
+    },
+    {
+      "start": "2026-07-22T15:44:01+00:00",
+      "stop": "2026-07-22T16:48:55+00:00",
+      "hours": 1.08,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Brad Balduf and Ivan Dunskiy, CEO at Demigos"
+    },
+    {
+      "start": "2026-07-22T15:14:00+00:00",
+      "stop": "2026-07-22T15:38:48+00:00",
       "hours": 0.41,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Empathetics - merge tasks"
+      "description": "SGWR Phase 2/3 Updated Scope and Budget presentation"
     },
     {
-      "start": "2026-07-14T17:19:33+00:00",
-      "stop": "2026-07-14T17:54:42+00:00",
-      "hours": 0.59,
+      "start": "2026-07-22T14:16:54+00:00",
+      "stop": "2026-07-22T15:13:41+00:00",
+      "hours": 0.95,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "AI in Practice: change positioning"
+      "description": "Arishta documents"
     },
     {
-      "start": "2026-07-14T16:35:18+00:00",
-      "stop": "2026-07-14T17:13:27+00:00",
-      "hours": 0.64,
+      "start": "2026-07-22T12:59:56+00:00",
+      "stop": "2026-07-22T13:58:27+00:00",
+      "hours": 0.98,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Publish Mrunal testimonial"
+      "description": "Arishta <> Demigos on next steps"
     },
     {
-      "start": "2026-07-14T16:32:43+00:00",
-      "stop": "2026-07-14T16:35:13+00:00",
-      "hours": 0.04,
+      "start": "2026-07-22T11:03:33+00:00",
+      "stop": "2026-07-22T11:19:56+00:00",
+      "hours": 0.27,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "AI in Practice: marketing"
+      "description": "Demigos Security catch up"
     },
     {
-      "start": "2026-07-14T15:01:33+00:00",
-      "stop": "2026-07-14T15:37:10+00:00",
-      "hours": 0.59,
+      "start": "2026-07-22T10:02:42+00:00",
+      "stop": "2026-07-22T11:03:26+00:00",
+      "hours": 1.01,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Sweetgrass Properties Website Redesign Sync"
+      "description": "Interview with Ihor B (Front-end engineer). Seedium"
     },
     {
-      "start": "2026-07-14T14:01:24+00:00",
-      "stop": "2026-07-14T14:16:50+00:00",
-      "hours": 0.26,
+      "start": "2026-07-22T09:21:43+00:00",
+      "stop": "2026-07-22T10:02:10+00:00",
+      "hours": 0.67,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "SGWR Sync Prep"
+      "description": "Review Shelby materials"
     },
     {
-      "start": "2026-07-14T12:51:46+00:00",
-      "stop": "2026-07-14T13:41:50+00:00",
-      "hours": 0.83,
+      "start": "2026-07-22T09:07:38+00:00",
+      "stop": "2026-07-22T09:21:26+00:00",
+      "hours": 0.23,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Richard Vazqurz and Ivan Dunskiy, CEO at Demigos"
+      "description": "Next steps"
     },
     {
-      "start": "2026-07-14T12:01:44+00:00",
-      "stop": "2026-07-14T12:51:03+00:00",
-      "hours": 0.82,
+      "start": "2026-07-22T08:25:02+00:00",
+      "stop": "2026-07-22T08:44:50+00:00",
+      "hours": 0.33,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Derik <> Ivan catch up"
+      "description": "AI in Practice: review pipeline and offering"
     },
     {
-      "start": "2026-07-14T10:18:05+00:00",
-      "stop": "2026-07-14T11:54:59+00:00",
-      "hours": 1.61,
+      "start": "2026-07-22T07:56:24+00:00",
+      "stop": "2026-07-22T08:11:21+00:00",
+      "hours": 0.25,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Arishta proposal"
+      "description": "AI in Practice: review pipeline and offering"
     },
     {
-      "start": "2026-07-14T09:38:25+00:00",
-      "stop": "2026-07-14T10:08:07+00:00",
+      "start": "2026-07-22T07:50:56+00:00",
+      "stop": "2026-07-22T07:56:05+00:00",
+      "hours": 0.09,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Financial management"
+    },
+    {
+      "start": "2026-07-22T06:34:01+00:00",
+      "stop": "2026-07-22T07:46:11+00:00",
+      "hours": 1.2,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Dominant"
+    },
+    {
+      "start": "2026-07-22T04:10:38+00:00",
+      "stop": "2026-07-22T04:26:34+00:00",
+      "hours": 0.27,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
+    },
+    {
+      "start": "2026-07-21T18:34:28+00:00",
+      "stop": "2026-07-21T19:42:01+00:00",
+      "hours": 1.13,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Interview Vita"
+    },
+    {
+      "start": "2026-07-21T17:44:44+00:00",
+      "stop": "2026-07-21T18:14:05+00:00",
       "hours": 0.49,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - send contracts"
+    },
+    {
+      "start": "2026-07-21T17:23:07+00:00",
+      "stop": "2026-07-21T17:32:17+00:00",
+      "hours": 0.15,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - send contracts"
+    },
+    {
+      "start": "2026-07-21T15:04:30+00:00",
+      "stop": "2026-07-21T17:22:40+00:00",
+      "hours": 2.3,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Biz dev call: Spencer Heazlitt and Ivan Dunskiy, CEO at Demigos"
+    },
+    {
+      "start": "2026-07-21T14:32:10+00:00",
+      "stop": "2026-07-21T15:03:54+00:00",
+      "hours": 0.53,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Ivan X Brian Hubspot Set Up"
+    },
+    {
+      "start": "2026-07-21T14:13:47+00:00",
+      "stop": "2026-07-21T14:29:52+00:00",
+      "hours": 0.27,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Security enhancement"
+    },
+    {
+      "start": "2026-07-21T13:30:47+00:00",
+      "stop": "2026-07-21T13:39:03+00:00",
+      "hours": 0.14,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Security enhancement"
+    },
+    {
+      "start": "2026-07-21T12:26:36+00:00",
+      "stop": "2026-07-21T13:08:49+00:00",
+      "hours": 0.7,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Dominant"
+    },
+    {
+      "start": "2026-07-21T11:47:25+00:00",
+      "stop": "2026-07-21T12:15:02+00:00",
+      "hours": 0.46,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Security enhancement"
+    },
+    {
+      "start": "2026-07-21T11:29:49+00:00",
+      "stop": "2026-07-21T11:47:22+00:00",
+      "hours": 0.29,
       "project": "Demigos",
       "client": "Demigos",
       "description": "Send invoice to Joseph"
     },
     {
-      "start": "2026-07-14T09:32:00+00:00",
-      "stop": "2026-07-14T09:37:00+00:00",
-      "hours": 0.08,
+      "start": "2026-07-21T11:11:07+00:00",
+      "stop": "2026-07-21T11:20:48+00:00",
+      "hours": 0.16,
       "project": "(No Project)",
       "client": null,
-      "description": "Empathetics - manage tasks"
+      "description": "Empathetics - merge tasks"
     },
     {
-      "start": "2026-07-14T09:00:58+00:00",
-      "stop": "2026-07-14T09:16:48+00:00",
-      "hours": 0.26,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Dominant"
-    },
-    {
-      "start": "2026-07-14T08:47:35+00:00",
-      "stop": "2026-07-14T08:54:58+00:00",
-      "hours": 0.12,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Dominant"
-    },
-    {
-      "start": "2026-07-13T17:52:19+00:00",
-      "stop": "2026-07-13T18:07:54+00:00",
-      "hours": 0.26,
+      "start": "2026-07-21T10:17:56+00:00",
+      "stop": "2026-07-21T10:35:28+00:00",
+      "hours": 0.29,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "New pipeling building"
+      "description": "Empathetics - send contracts"
     },
     {
-      "start": "2026-07-13T17:31:03+00:00",
-      "stop": "2026-07-13T17:52:16+00:00",
-      "hours": 0.35,
+      "start": "2026-07-21T10:15:26+00:00",
+      "stop": "2026-07-21T10:17:48+00:00",
+      "hours": 0.04,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Publish Mrunal testimonial"
+      "description": "Pipeline building"
     },
     {
-      "start": "2026-07-13T16:26:13+00:00",
-      "stop": "2026-07-13T16:47:23+00:00",
-      "hours": 0.35,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Dominant"
-    },
-    {
-      "start": "2026-07-13T16:00:34+00:00",
-      "stop": "2026-07-13T16:26:10+00:00",
-      "hours": 0.43,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Dominant"
-    },
-    {
-      "start": "2026-07-13T15:03:30+00:00",
-      "stop": "2026-07-13T15:47:20+00:00",
-      "hours": 0.73,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Sync with Jason"
-    },
-    {
-      "start": "2026-07-13T14:31:41+00:00",
-      "stop": "2026-07-13T15:02:56+00:00",
-      "hours": 0.52,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "AI in Practice: Kata Vatai-G\u00e1sp\u00e1r and Ivan Dunskiy, CEO at Demigos"
-    },
-    {
-      "start": "2026-07-13T14:10:36+00:00",
-      "stop": "2026-07-13T14:24:02+00:00",
-      "hours": 0.22,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - manage tasks"
-    },
-    {
-      "start": "2026-07-13T13:30:09+00:00",
-      "stop": "2026-07-13T14:10:34+00:00",
-      "hours": 0.67,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "15 mins meeting with Mihai Clejanu - Hubspot"
-    },
-    {
-      "start": "2026-07-13T13:05:22+00:00",
-      "stop": "2026-07-13T13:21:20+00:00",
+      "start": "2026-07-21T09:50:53+00:00",
+      "stop": "2026-07-21T10:07:22+00:00",
       "hours": 0.27,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Publish Mrunal testimonial"
+      "project": "Self R&D",
+      "client": null,
+      "description": "Buy mountain equipment"
     },
     {
-      "start": "2026-07-13T12:27:32+00:00",
-      "stop": "2026-07-13T13:04:51+00:00",
-      "hours": 0.62,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Publish Mrunal testimonial"
-    },
-    {
-      "start": "2026-07-13T11:08:29+00:00",
-      "stop": "2026-07-13T11:55:55+00:00",
-      "hours": 0.79,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "New pipeling building"
-    },
-    {
-      "start": "2026-07-13T10:14:16+00:00",
-      "stop": "2026-07-13T10:38:42+00:00",
-      "hours": 0.41,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Publish Mrunal testimonial"
-    },
-    {
-      "start": "2026-07-13T09:25:56+00:00",
-      "stop": "2026-07-13T09:48:56+00:00",
-      "hours": 0.38,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Publish Mrunal testimonial"
-    },
-    {
-      "start": "2026-07-13T09:10:41+00:00",
-      "stop": "2026-07-13T09:23:11+00:00",
-      "hours": 0.21,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - manage tasks"
-    },
-    {
-      "start": "2026-07-13T08:59:53+00:00",
-      "stop": "2026-07-13T09:09:05+00:00",
-      "hours": 0.15,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Publish Mrunal testimonial"
-    },
-    {
-      "start": "2026-07-13T08:00:40+00:00",
-      "stop": "2026-07-13T08:40:59+00:00",
-      "hours": 0.67,
+      "start": "2026-07-21T08:20:00+00:00",
+      "stop": "2026-07-21T09:50:00+00:00",
+      "hours": 1.5,
       "project": "Aquapark",
       "client": null,
       "description": "Dominant"
     },
     {
-      "start": "2026-07-13T03:37:12+00:00",
-      "stop": "2026-07-13T04:49:42+00:00",
-      "hours": 1.21,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Next steps"
-    },
-    {
-      "start": "2026-07-12T12:12:47+00:00",
-      "stop": "2026-07-12T14:47:43+00:00",
-      "hours": 2.58,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Next steps"
-    },
-    {
-      "start": "2026-07-12T11:16:14+00:00",
-      "stop": "2026-07-12T11:25:19+00:00",
-      "hours": 0.15,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Financial reports"
-    },
-    {
-      "start": "2026-07-12T03:16:29+00:00",
-      "stop": "2026-07-12T04:03:07+00:00",
-      "hours": 0.78,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Self research"
-    },
-    {
-      "start": "2026-07-11T17:38:36+00:00",
-      "stop": "2026-07-11T18:19:17+00:00",
-      "hours": 0.68,
+      "start": "2026-07-21T03:36:22+00:00",
+      "stop": "2026-07-21T03:49:43+00:00",
+      "hours": 0.22,
       "project": "Aquapark",
       "client": null,
-      "description": "Dominant"
+      "description": "Girls"
     },
     {
-      "start": "2026-07-11T01:28:29+00:00",
-      "stop": "2026-07-11T01:48:45+00:00",
-      "hours": 0.34,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Self research"
-    },
-    {
-      "start": "2026-07-10T17:27:08+00:00",
-      "stop": "2026-07-10T18:44:40+00:00",
-      "hours": 1.29,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "AI in Practice: marketing"
-    },
-    {
-      "start": "2026-07-10T15:00:30+00:00",
-      "stop": "2026-07-10T15:25:05+00:00",
-      "hours": 0.41,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "New pipeling building"
-    },
-    {
-      "start": "2026-07-10T13:04:00+00:00",
-      "stop": "2026-07-10T14:14:00+00:00",
-      "hours": 1.17,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - catch up with Austin"
-    },
-    {
-      "start": "2026-07-10T12:33:39+00:00",
-      "stop": "2026-07-10T13:04:17+00:00",
-      "hours": 0.51,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "AI in Practice: promotion"
-    },
-    {
-      "start": "2026-07-10T12:03:29+00:00",
-      "stop": "2026-07-10T12:33:37+00:00",
-      "hours": 0.5,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Dominant"
-    },
-    {
-      "start": "2026-07-10T11:56:13+00:00",
-      "stop": "2026-07-10T12:03:00+00:00",
-      "hours": 0.11,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Financial reports"
-    },
-    {
-      "start": "2026-07-10T11:39:36+00:00",
-      "stop": "2026-07-10T11:51:03+00:00",
+      "start": "2026-07-21T03:24:53+00:00",
+      "stop": "2026-07-21T03:36:15+00:00",
       "hours": 0.19,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Financial reports"
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
     },
     {
-      "start": "2026-07-10T11:28:40+00:00",
-      "stop": "2026-07-10T11:39:30+00:00",
+      "start": "2026-07-21T02:45:01+00:00",
+      "stop": "2026-07-21T03:23:48+00:00",
+      "hours": 0.65,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
+    },
+    {
+      "start": "2026-07-20T17:46:34+00:00",
+      "stop": "2026-07-20T18:00:52+00:00",
+      "hours": 0.24,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Girls"
+    },
+    {
+      "start": "2026-07-20T17:24:10+00:00",
+      "stop": "2026-07-20T17:34:47+00:00",
       "hours": 0.18,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "AI in Practice: promotion"
+      "description": "Empathetics - send contracts"
     },
     {
-      "start": "2026-07-10T07:59:33+00:00",
-      "stop": "2026-07-10T09:07:53+00:00",
-      "hours": 1.14,
+      "start": "2026-07-20T17:20:13+00:00",
+      "stop": "2026-07-20T17:24:05+00:00",
+      "hours": 0.06,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Demigos projects weekly retrospective"
+      "description": "Security enhancement"
     },
     {
-      "start": "2026-07-10T07:34:26+00:00",
-      "stop": "2026-07-10T07:54:48+00:00",
-      "hours": 0.34,
+      "start": "2026-07-20T13:59:38+00:00",
+      "stop": "2026-07-20T15:02:23+00:00",
+      "hours": 1.05,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "\u0412\u0438\u043f\u043b\u0430\u0442\u0438 \u0417\u041f"
+      "description": "Shelby <> Ivan catch up"
     },
     {
-      "start": "2026-07-10T06:55:13+00:00",
-      "stop": "2026-07-10T07:34:01+00:00",
-      "hours": 0.65,
+      "start": "2026-07-20T13:34:11+00:00",
+      "stop": "2026-07-20T13:59:25+00:00",
+      "hours": 0.42,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Create proposal for Shelby"
+    },
+    {
+      "start": "2026-07-20T11:16:29+00:00",
+      "stop": "2026-07-20T13:09:55+00:00",
+      "hours": 1.89,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Create proposal for Shelby"
+    },
+    {
+      "start": "2026-07-20T10:58:23+00:00",
+      "stop": "2026-07-20T11:03:52+00:00",
+      "hours": 0.09,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - tasks management"
+    },
+    {
+      "start": "2026-07-20T10:25:58+00:00",
+      "stop": "2026-07-20T10:39:39+00:00",
+      "hours": 0.23,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Security enhancement"
+    },
+    {
+      "start": "2026-07-20T09:37:38+00:00",
+      "stop": "2026-07-20T10:25:57+00:00",
+      "hours": 0.81,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Pipeline building"
+    },
+    {
+      "start": "2026-07-20T09:18:09+00:00",
+      "stop": "2026-07-20T09:31:44+00:00",
+      "hours": 0.23,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Give permissions to Brian"
+    },
+    {
+      "start": "2026-07-20T08:54:37+00:00",
+      "stop": "2026-07-20T09:09:29+00:00",
+      "hours": 0.25,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Prepare answer to Kalpesh"
+    },
+    {
+      "start": "2026-07-20T08:41:47+00:00",
+      "stop": "2026-07-20T08:53:57+00:00",
+      "hours": 0.2,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - tasks management"
+    },
+    {
+      "start": "2026-07-20T08:35:05+00:00",
+      "stop": "2026-07-20T08:41:29+00:00",
+      "hours": 0.11,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Security enhancement"
+    },
+    {
+      "start": "2026-07-20T08:27:07+00:00",
+      "stop": "2026-07-20T08:34:58+00:00",
+      "hours": 0.13,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Projects handling"
+    },
+    {
+      "start": "2026-07-20T08:12:18+00:00",
+      "stop": "2026-07-20T08:27:02+00:00",
+      "hours": 0.25,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Security enhancement"
+    },
+    {
+      "start": "2026-07-20T08:06:42+00:00",
+      "stop": "2026-07-20T08:11:58+00:00",
+      "hours": 0.09,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Financial reports"
+    },
+    {
+      "start": "2026-07-20T07:02:22+00:00",
+      "stop": "2026-07-20T07:46:42+00:00",
+      "hours": 0.74,
       "project": "Aquapark",
       "client": null,
       "description": "Dominant"
+    },
+    {
+      "start": "2026-07-20T03:53:16+00:00",
+      "stop": "2026-07-20T05:01:50+00:00",
+      "hours": 1.14,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
     }
   ]
 }
