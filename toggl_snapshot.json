@@ -1,307 +1,477 @@
 {
-  "generated_at": "2026-08-21T14:21:02.651882+00:00",
-  "range_start": "2026-08-14",
-  "range_end": "2026-08-21",
+  "generated_at": "2026-08-28T23:14:03.808992+00:00",
+  "range_start": "2026-08-21",
+  "range_end": "2026-08-28",
   "project_filter": "all",
-  "total_hours": 23.1,
+  "total_hours": 31.99,
   "by_project": [
     {
       "project": "Demigos",
       "client": "Demigos",
-      "hours": 16.05,
-      "entry_count": 24
-    },
-    {
-      "project": "Self R&D",
-      "client": null,
-      "hours": 4.59,
-      "entry_count": 6
+      "hours": 29.66,
+      "entry_count": 49
     },
     {
       "project": "Aquapark",
       "client": null,
-      "hours": 1.49,
-      "entry_count": 2
+      "hours": 2.0,
+      "entry_count": 4
     },
     {
-      "project": "(No Project)",
+      "project": "Self R&D",
       "client": null,
-      "hours": 0.98,
-      "entry_count": 2
+      "hours": 0.33,
+      "entry_count": 3
     }
   ],
   "raw_entries": [
     {
-      "start": "2026-08-19T07:56:37+00:00",
-      "stop": "2026-08-19T07:59:39+00:00",
-      "hours": 0.05,
+      "start": "2026-08-28T15:48:46+00:00",
+      "stop": "2026-08-28T17:13:40+00:00",
+      "hours": 1.42,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Financial statements"
+    },
+    {
+      "start": "2026-08-28T15:33:55+00:00",
+      "stop": "2026-08-28T15:35:38+00:00",
+      "hours": 0.03,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 5 research"
+    },
+    {
+      "start": "2026-08-28T15:28:38+00:00",
+      "stop": "2026-08-28T15:32:58+00:00",
+      "hours": 0.07,
       "project": "Demigos",
       "client": "Demigos",
       "description": "Empathetics - manage tasks"
     },
     {
-      "start": "2026-08-19T07:42:49+00:00",
-      "stop": "2026-08-19T07:45:33+00:00",
-      "hours": 0.05,
+      "start": "2026-08-28T11:10:17+00:00",
+      "stop": "2026-08-28T12:38:28+00:00",
+      "hours": 1.47,
       "project": "Demigos",
       "client": "Demigos",
-      "description": "Empathetics - manage tasks"
+      "description": "Content creation - video 4 video (sales skills)"
     },
     {
-      "start": "2026-08-19T07:28:09+00:00",
-      "stop": "2026-08-19T07:30:52+00:00",
-      "hours": 0.05,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - manage tasks"
-    },
-    {
-      "start": "2026-08-19T05:51:33+00:00",
-      "stop": "2026-08-19T06:03:51+00:00",
-      "hours": 0.2,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Empathetics - manage tasks"
-    },
-    {
-      "start": "2026-08-19T05:31:49+00:00",
-      "stop": "2026-08-19T05:41:10+00:00",
-      "hours": 0.16,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Self reflection"
-    },
-    {
-      "start": "2026-08-18T15:19:14+00:00",
-      "stop": "2026-08-18T15:34:56+00:00",
-      "hours": 0.26,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "New pipeline building"
-    },
-    {
-      "start": "2026-08-18T14:07:54+00:00",
-      "stop": "2026-08-18T15:08:33+00:00",
+      "start": "2026-08-28T10:01:24+00:00",
+      "stop": "2026-08-28T11:01:44+00:00",
       "hours": 1.01,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "New pipeline building"
-    },
-    {
-      "start": "2026-08-17T16:20:18+00:00",
-      "stop": "2026-08-17T16:59:29+00:00",
-      "hours": 0.65,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Self reflection"
-    },
-    {
-      "start": "2026-08-17T15:17:43+00:00",
-      "stop": "2026-08-17T15:57:39+00:00",
-      "hours": 0.67,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "SG Project update meeting"
-    },
-    {
-      "start": "2026-08-17T12:58:40+00:00",
-      "stop": "2026-08-17T14:24:22+00:00",
-      "hours": 1.43,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Derik <> Ivan catch up"
-    },
-    {
-      "start": "2026-08-17T12:53:27+00:00",
-      "stop": "2026-08-17T12:58:24+00:00",
-      "hours": 0.08,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - strategy"
-    },
-    {
-      "start": "2026-08-17T12:17:54+00:00",
-      "stop": "2026-08-17T12:26:45+00:00",
-      "hours": 0.15,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 1 editing (The AI compliance agent build)"
-    },
-    {
-      "start": "2026-08-17T09:15:11+00:00",
-      "stop": "2026-08-17T11:34:30+00:00",
-      "hours": 2.32,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 1 editing (The AI compliance agent build)"
-    },
-    {
-      "start": "2026-08-17T08:35:08+00:00",
-      "stop": "2026-08-17T09:00:20+00:00",
-      "hours": 0.42,
-      "project": "Self R&D",
-      "client": null,
-      "description": "What do I want"
-    },
-    {
-      "start": "2026-08-17T04:18:00+00:00",
-      "stop": "2026-08-17T05:15:00+00:00",
-      "hours": 0.95,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Girls"
-    },
-    {
-      "start": "2026-08-16T16:52:36+00:00",
-      "stop": "2026-08-16T16:56:03+00:00",
-      "hours": 0.06,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "My blog or company blog"
-    },
-    {
-      "start": "2026-08-16T16:08:25+00:00",
-      "stop": "2026-08-16T16:19:14+00:00",
-      "hours": 0.18,
-      "project": "(No Project)",
-      "client": null,
-      "description": "Vision to Vitaliy"
-    },
-    {
-      "start": "2026-08-16T15:44:13+00:00",
-      "stop": "2026-08-16T16:05:31+00:00",
-      "hours": 0.35,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Send application to Claude"
-    },
-    {
-      "start": "2026-08-16T15:13:05+00:00",
-      "stop": "2026-08-16T15:43:57+00:00",
-      "hours": 0.51,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 2 editing script (\u0441ompany knowledgebase)"
-    },
-    {
-      "start": "2026-08-16T13:41:23+00:00",
-      "stop": "2026-08-16T14:10:44+00:00",
-      "hours": 0.49,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 2 editing script (\u0441ompany knowledgebase)"
-    },
-    {
-      "start": "2026-08-16T13:01:23+00:00",
-      "stop": "2026-08-16T13:33:21+00:00",
-      "hours": 0.53,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 2 editing script (\u0441ompany knowledgebase)"
-    },
-    {
-      "start": "2026-08-16T12:04:54+00:00",
-      "stop": "2026-08-16T12:52:36+00:00",
-      "hours": 0.8,
-      "project": "(No Project)",
-      "client": null,
-      "description": "Vitaliy conversation"
-    },
-    {
-      "start": "2026-08-16T11:36:53+00:00",
-      "stop": "2026-08-16T12:04:40+00:00",
-      "hours": 0.46,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 2 editing script (\u0441ompany knowledgebase)"
-    },
-    {
-      "start": "2026-08-16T09:58:29+00:00",
-      "stop": "2026-08-16T11:36:47+00:00",
-      "hours": 1.64,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Self reflection"
-    },
-    {
-      "start": "2026-08-15T10:39:11+00:00",
-      "stop": "2026-08-15T11:11:29+00:00",
-      "hours": 0.54,
-      "project": "Aquapark",
-      "client": null,
-      "description": "Girls"
-    },
-    {
-      "start": "2026-08-15T08:59:41+00:00",
-      "stop": "2026-08-15T10:36:39+00:00",
-      "hours": 1.62,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 1 editing (The AI compliance agent build)"
-    },
-    {
-      "start": "2026-08-15T08:13:02+00:00",
-      "stop": "2026-08-15T08:59:37+00:00",
-      "hours": 0.78,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 1 shooting (The AI compliance agent build)"
-    },
-    {
-      "start": "2026-08-15T03:29:05+00:00",
-      "stop": "2026-08-15T04:24:07+00:00",
-      "hours": 0.92,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 1 editing script (The AI compliance agent build)"
-    },
-    {
-      "start": "2026-08-15T02:45:25+00:00",
-      "stop": "2026-08-15T03:28:39+00:00",
-      "hours": 0.72,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Self reflection"
-    },
-    {
-      "start": "2026-08-14T12:56:48+00:00",
-      "stop": "2026-08-14T14:14:38+00:00",
-      "hours": 1.3,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Content creation - video 1 creating script (The AI compliance agent build)"
-    },
-    {
-      "start": "2026-08-14T10:55:00+00:00",
-      "stop": "2026-08-14T12:51:35+00:00",
-      "hours": 1.94,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Hubspot automation"
-    },
-    {
-      "start": "2026-08-14T10:40:07+00:00",
-      "stop": "2026-08-14T10:53:30+00:00",
-      "hours": 0.22,
-      "project": "Demigos",
-      "client": "Demigos",
-      "description": "Pipeline building"
-    },
-    {
-      "start": "2026-08-14T10:03:13+00:00",
-      "stop": "2026-08-14T10:39:13+00:00",
-      "hours": 0.6,
       "project": "Demigos",
       "client": "Demigos",
       "description": "Demigos projects weekly retrospective"
     },
     {
-      "start": "2026-08-14T08:30:00+00:00",
-      "stop": "2026-08-14T09:30:00+00:00",
-      "hours": 1.0,
+      "start": "2026-08-28T09:57:51+00:00",
+      "stop": "2026-08-28T10:01:21+00:00",
+      "hours": 0.06,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 4 video (sales skills)"
+    },
+    {
+      "start": "2026-08-28T09:25:18+00:00",
+      "stop": "2026-08-28T09:54:46+00:00",
+      "hours": 0.49,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 4 video (sales skills)"
+    },
+    {
+      "start": "2026-08-28T09:22:12+00:00",
+      "stop": "2026-08-28T09:24:55+00:00",
+      "hours": 0.05,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "AI cohort - refine the offer"
+    },
+    {
+      "start": "2026-08-28T09:14:15+00:00",
+      "stop": "2026-08-28T09:21:53+00:00",
+      "hours": 0.13,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "AI in Georgia event"
+    },
+    {
+      "start": "2026-08-27T19:30:27+00:00",
+      "stop": "2026-08-27T19:34:13+00:00",
+      "hours": 0.06,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - manage tasks"
+    },
+    {
+      "start": "2026-08-27T17:25:02+00:00",
+      "stop": "2026-08-27T19:19:43+00:00",
+      "hours": 1.91,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Prepare and hold the call with Joe Womack"
+    },
+    {
+      "start": "2026-08-27T15:55:46+00:00",
+      "stop": "2026-08-27T16:32:33+00:00",
+      "hours": 0.61,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Refine the offer"
+    },
+    {
+      "start": "2026-08-27T15:23:17+00:00",
+      "stop": "2026-08-27T15:55:40+00:00",
+      "hours": 0.54,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Prepare for the sales call"
+    },
+    {
+      "start": "2026-08-27T13:27:15+00:00",
+      "stop": "2026-08-27T14:08:42+00:00",
+      "hours": 0.69,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Ivan GTM"
+    },
+    {
+      "start": "2026-08-27T13:10:37+00:00",
+      "stop": "2026-08-27T13:27:04+00:00",
+      "hours": 0.27,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Sweetgrass issue"
+    },
+    {
+      "start": "2026-08-27T12:20:56+00:00",
+      "stop": "2026-08-27T13:10:24+00:00",
+      "hours": 0.82,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 4 video (sales skills)"
+    },
+    {
+      "start": "2026-08-27T11:47:54+00:00",
+      "stop": "2026-08-27T12:20:51+00:00",
+      "hours": 0.55,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 4 video (sales skills)"
+    },
+    {
+      "start": "2026-08-27T11:19:00+00:00",
+      "stop": "2026-08-27T11:33:00+00:00",
+      "hours": 0.23,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "SGWR Internal demo (Sprints 9-10)"
+    },
+    {
+      "start": "2026-08-27T09:57:43+00:00",
+      "stop": "2026-08-27T11:19:07+00:00",
+      "hours": 1.36,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 4 script (sales skills)"
+    },
+    {
+      "start": "2026-08-27T09:09:08+00:00",
+      "stop": "2026-08-27T09:57:39+00:00",
+      "hours": 0.81,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - next steps refining"
+    },
+    {
+      "start": "2026-08-26T17:09:25+00:00",
+      "stop": "2026-08-26T17:10:34+00:00",
+      "hours": 0.02,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Empathetics - manage tasks"
+    },
+    {
+      "start": "2026-08-26T16:54:35+00:00",
+      "stop": "2026-08-26T17:09:21+00:00",
+      "hours": 0.25,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Girls"
+    },
+    {
+      "start": "2026-08-26T16:49:02+00:00",
+      "stop": "2026-08-26T16:54:27+00:00",
+      "hours": 0.09,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Review content"
+    },
+    {
+      "start": "2026-08-26T15:07:09+00:00",
+      "stop": "2026-08-26T16:45:06+00:00",
+      "hours": 1.63,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 3 shooting (sales skills)"
+    },
+    {
+      "start": "2026-08-26T11:15:19+00:00",
+      "stop": "2026-08-26T11:35:43+00:00",
+      "hours": 0.34,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 4 script (sales skills)"
+    },
+    {
+      "start": "2026-08-26T10:29:42+00:00",
+      "stop": "2026-08-26T11:15:17+00:00",
+      "hours": 0.76,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 3 script (sales skills)"
+    },
+    {
+      "start": "2026-08-26T10:02:42+00:00",
+      "stop": "2026-08-26T10:28:56+00:00",
+      "hours": 0.44,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Weekly sync up Demigos/ByteCode"
+    },
+    {
+      "start": "2026-08-26T09:11:38+00:00",
+      "stop": "2026-08-26T09:57:29+00:00",
+      "hours": 0.76,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 3 research (sales skills)"
+    },
+    {
+      "start": "2026-08-26T07:06:53+00:00",
+      "stop": "2026-08-26T07:58:44+00:00",
+      "hours": 0.86,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Oral"
+    },
+    {
+      "start": "2026-08-26T03:14:36+00:00",
+      "stop": "2026-08-26T04:20:11+00:00",
+      "hours": 1.09,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Analyze conversations"
+    },
+    {
+      "start": "2026-08-25T18:56:10+00:00",
+      "stop": "2026-08-25T19:05:16+00:00",
+      "hours": 0.15,
       "project": "Self R&D",
       "client": null,
-      "description": "Guitar session"
+      "description": "Self reflection"
+    },
+    {
+      "start": "2026-08-25T15:20:57+00:00",
+      "stop": "2026-08-25T16:51:10+00:00",
+      "hours": 1.5,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 3 research (sales skills)"
+    },
+    {
+      "start": "2026-08-25T15:15:50+00:00",
+      "stop": "2026-08-25T15:20:51+00:00",
+      "hours": 0.08,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - choose topic"
+    },
+    {
+      "start": "2026-08-25T14:56:12+00:00",
+      "stop": "2026-08-25T15:15:48+00:00",
+      "hours": 0.33,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Follow up with a lead"
+    },
+    {
+      "start": "2026-08-25T14:53:34+00:00",
+      "stop": "2026-08-25T14:56:00+00:00",
+      "hours": 0.04,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation"
+    },
+    {
+      "start": "2026-08-25T14:14:31+00:00",
+      "stop": "2026-08-25T14:53:20+00:00",
+      "hours": 0.65,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Q&A Call w/ Dave"
+    },
+    {
+      "start": "2026-08-25T09:57:12+00:00",
+      "stop": "2026-08-25T12:18:00+00:00",
+      "hours": 2.35,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 2 shooting (\u0441ompany knowledgebase)"
+    },
+    {
+      "start": "2026-08-25T09:45:23+00:00",
+      "stop": "2026-08-25T09:57:09+00:00",
+      "hours": 0.2,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 2 script (\u0441ompany knowledgebase)"
+    },
+    {
+      "start": "2026-08-25T09:17:03+00:00",
+      "stop": "2026-08-25T09:40:46+00:00",
+      "hours": 0.4,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Instrument"
+    },
+    {
+      "start": "2026-08-24T19:43:52+00:00",
+      "stop": "2026-08-24T19:52:58+00:00",
+      "hours": 0.15,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
+    },
+    {
+      "start": "2026-08-24T19:13:20+00:00",
+      "stop": "2026-08-24T19:36:42+00:00",
+      "hours": 0.39,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Sales focus"
+    },
+    {
+      "start": "2026-08-24T19:10:56+00:00",
+      "stop": "2026-08-24T19:12:29+00:00",
+      "hours": 0.03,
+      "project": "Self R&D",
+      "client": null,
+      "description": "Self reflection"
+    },
+    {
+      "start": "2026-08-24T19:01:23+00:00",
+      "stop": "2026-08-24T19:04:25+00:00",
+      "hours": 0.05,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Ketan Gima call"
+    },
+    {
+      "start": "2026-08-24T18:08:39+00:00",
+      "stop": "2026-08-24T19:01:19+00:00",
+      "hours": 0.88,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Ketan Gima call"
+    },
+    {
+      "start": "2026-08-24T16:18:43+00:00",
+      "stop": "2026-08-24T17:02:02+00:00",
+      "hours": 0.72,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 2 script (\u0441ompany knowledgebase)"
+    },
+    {
+      "start": "2026-08-24T16:12:58+00:00",
+      "stop": "2026-08-24T16:18:41+00:00",
+      "hours": 0.1,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 2 research (\u0441ompany knowledgebase)"
+    },
+    {
+      "start": "2026-08-24T16:03:51+00:00",
+      "stop": "2026-08-24T16:06:49+00:00",
+      "hours": 0.05,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 2 research (\u0441ompany knowledgebase)"
+    },
+    {
+      "start": "2026-08-24T15:30:46+00:00",
+      "stop": "2026-08-24T15:43:56+00:00",
+      "hours": 0.22,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "SG Project update meeting"
+    },
+    {
+      "start": "2026-08-24T15:08:40+00:00",
+      "stop": "2026-08-24T15:16:43+00:00",
+      "hours": 0.13,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "SG Project update meeting"
+    },
+    {
+      "start": "2026-08-24T11:58:19+00:00",
+      "stop": "2026-08-24T14:11:37+00:00",
+      "hours": 2.22,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Content creation - video 2 research (\u0441ompany knowledgebase)"
+    },
+    {
+      "start": "2026-08-24T11:01:10+00:00",
+      "stop": "2026-08-24T11:43:20+00:00",
+      "hours": 0.7,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Demigos projects weekly retrospective"
+    },
+    {
+      "start": "2026-08-24T10:15:48+00:00",
+      "stop": "2026-08-24T11:01:04+00:00",
+      "hours": 0.75,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Review pipeline"
+    },
+    {
+      "start": "2026-08-24T10:02:28+00:00",
+      "stop": "2026-08-24T10:15:39+00:00",
+      "hours": 0.22,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Review security policies"
+    },
+    {
+      "start": "2026-08-24T09:51:06+00:00",
+      "stop": "2026-08-24T10:02:17+00:00",
+      "hours": 0.19,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Next steps"
+    },
+    {
+      "start": "2026-08-24T09:40:28+00:00",
+      "stop": "2026-08-24T09:50:56+00:00",
+      "hours": 0.17,
+      "project": "Demigos",
+      "client": "Demigos",
+      "description": "Provide access to github"
+    },
+    {
+      "start": "2026-08-24T08:26:54+00:00",
+      "stop": "2026-08-24T08:56:42+00:00",
+      "hours": 0.5,
+      "project": "Aquapark",
+      "client": null,
+      "description": "Girls"
     }
   ]
 }
