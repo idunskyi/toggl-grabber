@@ -1,25 +1,9 @@
 {
-  "generated_at": "2026-09-18T17:18:28.358620+00:00",
-  "range_start": "2026-09-11",
-  "range_end": "2026-09-18",
+  "generated_at": "2026-09-25T18:06:33.288948+00:00",
+  "range_start": "2026-09-18",
+  "range_end": "2026-09-25",
   "project_filter": "all",
-  "total_hours": 2.05,
-  "by_project": [
-    {
-      "project": "Self R&D",
-      "client": null,
-      "hours": 2.05,
-      "entry_count": 1
-    }
-  ],
-  "raw_entries": [
-    {
-      "start": "2026-09-17T03:11:15+00:00",
-      "stop": "2026-09-17T05:14:24+00:00",
-      "hours": 2.05,
-      "project": "Self R&D",
-      "client": null,
-      "description": "Self reflection"
-    }
-  ]
+  "total_hours": 0.0,
+  "by_project": [],
+  "raw_entries": []
 }
